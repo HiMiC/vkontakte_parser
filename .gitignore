@@ -1,4 +1,8 @@
 # Byte-compiled / optimized / DLL files
+.idea
+docker/web/code/.env
+docker/countainer_data/mongodir/
+docker/countainer_data/mysqldir/
 __pycache__/
 *.py[cod]
 *$py.class
